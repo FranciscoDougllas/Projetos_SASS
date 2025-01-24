@@ -1,2 +1,2 @@
-# Projetos_SASS
- Desenvolvimento de Projetos com SASS
+# SALA-DE-PROJETOS_SASS
+ Projetos Desenvolvidos com HTML, CSS, JavaScript, SASS, Bootstrap
